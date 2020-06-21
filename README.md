@@ -1,12 +1,12 @@
 <h3 align="center">
 
-Project SpIn é um projeto desenvolvido em 2016 utilizando as tecnologias ***C e Allegro***
+  Project SpIn é um projeto desenvolvido em 2016 utilizando as tecnologias ***C e Allegro***
 
 </h3>
 
 <div align="center">
 
-![Banner](https://github.com/JoaoVelho/SpIn/blob/master/git-assets/banner.png)
+  ![Banner](https://github.com/JoaoVelho/SpIn/blob/master/github-assets/banner.png)
 
 </div>
 
@@ -26,6 +26,14 @@ Obs: Na pasta SpIn está o nosso projeto em si, com o código em C. Já na pasta
   - **[Allegro 5.0.10](https://liballeg.org/)**
 
 ## **:rocket: INSTRUÇÕES**
+
+<div align="center">
+  
+  <img src="https://github.com/JoaoVelho/SpIn/blob/master/github-assets/menu.png" alt="menu" width="267" height="400" />&nbsp;
+  <img src="https://github.com/JoaoVelho/SpIn/blob/master/github-assets/menu-nivel.png" alt="menu nivel" width="267" height="400" />&nbsp;
+  <img src="https://github.com/JoaoVelho/SpIn/blob/master/github-assets/jogo.png" alt="jogo" width="267" height="400" />
+
+</div>
 
 Você deve desviar ou destruir de asteróides para ganhar pontuação. 
 Caso você seja atingido por um asteróide você irá perder uma vida e ao perder as 3 vidas o jogo termina.
