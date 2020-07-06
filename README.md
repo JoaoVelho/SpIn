@@ -12,7 +12,7 @@
 
 ## **:books: SOBRE**
 
-Project SpIn é um jogo inspirado no Space Invaders em que você deve desviar ou destruir de asteróides para ganhar 
+**Project SpIn** é um jogo inspirado no Space Invaders em que você deve desviar ou destruir de asteróides para ganhar 
 pontuação. 
 
 Foi criado como atividade avaliativa na disciplina de Computação e teve como objetivo treinar tanto 
